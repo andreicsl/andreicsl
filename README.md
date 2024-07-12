@@ -57,7 +57,3 @@ I'm a BSIT student specializing in web development. With a basic foundation in H
   </a>
 </p>
 
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreicsl&show_icons=true&locale=en" alt="andreicsl" /></p>
