@@ -9,6 +9,7 @@ I'm a BSIT student specializing in web development. With a basic foundation in H
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.leetcode.com/andreicsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="andreicsl" height="30" width="40" /></a>
 <a href="https://dev.to/andreicsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="andreicsl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andreicsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreicsl" height="30" width="40" /></a>
 <a href="https://fb.com/csl.andrei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="csl.andrei" height="30" width="40" /></a>
