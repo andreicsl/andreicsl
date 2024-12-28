@@ -3,7 +3,7 @@ I'm a BSIT student specializing in web development. With a basic foundation in H
 
 - 🔭 I’m currently working on **Web-Based Realtime Room Monitoring and Reservation System**
 
-- 🌱 I’m currently learning **Node JS, LARAVEL, React**
+- 🌱 I’m currently learning **Node JS, React**
 
 - 📫 Contact **jelomarkandrei@gmail.com**
 
