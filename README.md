@@ -1,9 +1,9 @@
 ## Hi there! I'm Jelo Mark Andrei Casulla 👋
-I'm a BSIT student specializing in web development. With a basic foundation in HTML, CSS, JavaScript, I'm passionate about crafting responsive, user-friendly websites. Explore my projects to see how I integrate creativity with technical expertise to deliver engaging digital experiences. Let's connect and discuss how I can contribute to your team!
+I'm a BSIT student specializing in web development. With a strong foundation in HTML, CSS, JavaScript, I'm passionate about crafting user-friendly websites. Explore my projects to see how I integrate creativity with technical expertise to deliver engaging digital experiences. Let's connect and discuss how I can contribute to your team!
 
 - 🔭 I’m currently working on **Web-Based Realtime Room Monitoring and Reservation System**
 
-- 🌱 I’m currently learning **Node JS, React**
+- 🌱 I’m currently learning **NodeJS**, and **ReactJS**
 
 - 📫 Contact **jelomarkandrei@gmail.com**
 
@@ -15,7 +15,6 @@ I'm a BSIT student specializing in web development. With a basic foundation in H
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://getbootstrap.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="45" height="40"/></a>
-<a href="https://firebase.google.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 <a href="https://heroku.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
