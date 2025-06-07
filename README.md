@@ -1,5 +1,5 @@
 ### <h2 align="center">Hi there! I'm Jelo Mark Andrei Casulla 👋</h2>
-<h3 align="center">IT Student | Web Developer | Systems & Support Enthusiast</h3>
+<h3 align="center">IT Support / Specialist | Web Developer | Systems & Support Enthusiast</h3>
 
 <table align="center">
   <tr>
@@ -17,7 +17,7 @@
 </table>
 
 <h3 align="left">🌟 About Me</h3>
-I'm a <b>4th-year IT student</b> with hands-on experience in web development, system administration, and IT support. Skilled in troubleshooting hardware and software issues, configuring operating systems, and providing end-user support. I enjoy blending technical knowledge with creativity to build efficient solutions and support robust IT environments. Currently expanding my skills in system administration.
+I'm an <b>Information Technology graduate</b> with practical experience in web development, system administration, and IT support. Skilled in troubleshooting hardware and software issues, configuring operating systems, and assisting end users. I enjoy combining technical skills with creativity to build effective solutions and support reliable IT environments. Currently growing my expertise in system administration and network management.
 
 <br>
 
