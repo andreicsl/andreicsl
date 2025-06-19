@@ -43,7 +43,7 @@ I'm an <b>Information Technology graduate</b> with practical experience in web d
     🔗 LinkedIn
   </a> &nbsp;&nbsp; | &nbsp;&nbsp;
  <a href="mailto:jelomarkandrei@gmail.com" style="text-decoration:none; color:#D14836; font-weight:bold;">
-📧 Email
+📧 jelomarkandrei@gmail.com
   </a>
 </p>
 
