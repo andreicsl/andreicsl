@@ -54,7 +54,8 @@ I'm an <b>Information Technology graduate</b> with practical experience in web d
 
 <h3 align="left">🚀 Projects</h3>
 Here are some of the projects I worked on:
-<br>
+<br><br>
+
 <b>Web-Based Real-Time Room Monitoring and Reservation System</b>
 <ul>
   <li>Designed and developed the frontend using <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and <b>Bootstrap 5</b>.</li>
@@ -62,4 +63,13 @@ Here are some of the projects I worked on:
   <li>Implemented real-time communication using <b>Socket.IO</b> for instant updates on room availability.</li>
   <li>Developed backend functionalities using <b>Express.js</b>, integrated with the frontend for seamless data flow.</li>
 </ul>
+
+<b>Python Desktop App – Unit Converter & BMI Calculator</b>
+<ul>
+  <li>Built a desktop application using <b>Python</b> and <b>PyQt5</b> for converting weight and length units and calculating BMI.</li>
+  <li>Designed the GUI using <b>PyQt5 Designer</b> and integrated it with Python logic for input handling.</li>
+  <li>Features include support for unit conversions and BMI category interpretation.</li>
+  <li>Implemented input validation and error handling for smooth user experience.</li>
+</ul>
+
 
