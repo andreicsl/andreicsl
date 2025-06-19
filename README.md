@@ -42,8 +42,8 @@ I'm an <b>Information Technology graduate</b> with practical experience in web d
   <a href="https://linkedin.com/in/andreicsl" target="_blank" style="text-decoration:none; color:#0A66C2; font-weight:bold;">
     🔗 LinkedIn
   </a> &nbsp;&nbsp; | &nbsp;&nbsp;
-  <a href="mailto:jelomarkandrei@gmail.com" target="_blank" style="text-decoration:none; color:#D14836; font-weight:bold;">
-    📧 Email
+ <a href="mailto:jelomarkandrei@gmail.com" style="text-decoration:none; color:#D14836; font-weight:bold;">
+📧 Email
   </a>
 </p>
 
