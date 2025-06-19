@@ -6,6 +6,7 @@
     <td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a></td>
     <td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a></td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a></td>
+     <td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a></td>
     <td><a href="https://getbootstrap.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="45" height="40"/></a></td>
     <td><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a></td>
     <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/></a></td>
@@ -23,9 +24,9 @@ I'm an <b>Information Technology graduate</b> with practical experience in web d
 
 <h3 align="left">🧑‍💻 Tech Stack</h3>
 <ul>
-  <li><b>Frontend Development:</b> HTML, CSS, JavaScript, Bootstrap</li>
+  <li><b>Frontend Development:</b> HTML, CSS, JavaScript, Bootstrap 5</li>
   <li><b>Backend & Databases:</b> PHP, MySQL, Node.js, Express.js</li>
-  <li><b>Tools & Platforms:</b> Visual Studio, Git, GitHub, MySQL Workbench, PyQt Designer, Canva, Figma</li>
+  <li><b>Tools & Platforms:</b> Visual Studio, Git, GitHub, MySQL Workbench, PyQt Designer (with Python), Canva, Figma</li>
 </ul>
 
 <h3 align="left">🛠️ Other Technical Skills</h3>
