@@ -30,13 +30,13 @@ I'm an <b>Information Technology graduate</b> with practical experience in web d
   <li><b>Tools & Platforms:</b> Visual Studio, Git, GitHub, MySQL Workbench, PyQt Designer (with Python), Canva, Figma</li>
 </ul>
 
-<h3 align="left">🛠️ Other Technical Skills</h3>
+<!-- <h3 align="left">🛠️ Other Technical Skills</h3>
 <ul>
   <li><b>Hardware & Software Support:</b> Troubleshooting, preventive maintenance, PC hardware setup, OS installation, driver management</li>
   <li><b>Operating Systems:</b> Windows 10/11, basic Windows Server, familiarity with Linux; system configuration and updates</li>
-  <li><b>Networking:</b> LAN setup, IP configuration, printer and scanner setup, basic network troubleshooting</li>
-  <li><b>System Utilities:</b> Bootable USB creation, data backup and recovery, disk partitioning, system cleanup</li>
-</ul>
+  <li><b>Networking:</b> LAN setup, IP configuration, basic network troubleshooting</li>
+  <li><b>System Utilities:</b> Bootable USB creation, data backup and recovery, disk partitioning, system preventive maintenance</li>
+</ul> -->
 
 
 <h3 align="left">🌐 Connect with me!</h3>
