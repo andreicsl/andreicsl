@@ -25,9 +25,9 @@ I'm an <b>Information Technology graduate</b> with practical experience in web d
 
 <h3 align="left">🧑‍💻 Tech Stack</h3>
 <ul>
-  <li><b>Frontend Development:</b> HTML, CSS, JavaScript, Bootstrap 5</li>
+  <li><b>Frontend:</b> HTML, CSS, JavaScript, Bootstrap 5, TailwindCSS</li>
   <li><b>Backend & Databases:</b> PHP, MySQL, Node.js, Express.js</li>
-  <li><b>Tools & Platforms:</b> Visual Studio, Git, GitHub, MySQL Workbench, PyQt Designer (with Python), Canva, Figma</li>
+  <li><b>Tools & Platforms:</b> Visual Studio, Git, GitHub, MySQL Workbench, Qt Designer (with Python), Figma</li>
 </ul>
 
 <!-- <h3 align="left">🛠️ Other Technical Skills</h3>
