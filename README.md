@@ -19,7 +19,7 @@
 
 
 <h3 align="left">🌟 About Me</h3>
-I'm an <b>Information Technology graduate</b> with practical experience in web development, system administration, and IT support. Skilled in troubleshooting hardware and software issues, configuring operating systems, and assisting end users. I enjoy combining technical skills with creativity to build effective solutions and support reliable IT environments. Currently growing my expertise in software development.
+I'm an <b>Information Technology graduate</b> with practical experience in web development, system administration, and IT support. I enjoy combining technical skills with creativity to build effective solutions and support reliable IT environments. Currently growing my expertise in software development.
 
 <br>
 
